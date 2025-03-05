@@ -1,2 +1,2 @@
 # Midwest Solar GUI (In progress)
- Time esimation software for Midwest solar
+ Time estimation software for Midwest solar
